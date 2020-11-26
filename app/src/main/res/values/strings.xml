@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProTeams</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="get_started">Let\'s Get Started</string>
+    <string name="intro">Collaborate and Plan Together Across Multiple Devices on Trello</string>
+    <string name="signUpInfo">Enter Your Name, Email Id, and Password to Register</string>
+    <string name="signInInfo">Enter Your Email Id and Password to Log Into your Account</string>
+    <string name="wait_msg">PLEASE WAIT....</string>
+    <string name="signOut">Sign Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="update">UPDATE</string>
+    <string name="create">CREATE</string>
+    <string name="no_board_available">No Board Available !</string>
+    <string name="add_list">Add List</string>
+    <string name="task_list_name">Task List Name</string>
+    <string name="title">Title</string>
+    <string name="card_name">Card Name</string>
+    <string name="add_card">Add Card</string>
+    <string name="members">Members</string>
+    <string name="add">ADD</string>
+    <string name="add_a_member">Add a member</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="cancel">CANCEL</string>
+    <string name="label_colour">Label Colour</string>
+    <string name="dueDate">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="select_members">Select Members</string>
+    <string name="select_a_colour">Select a colour</string>
+    <string name="delete">DELETE</string>
+    <string name="default_notification_channel_id">myChannel</string>
+</resources>
