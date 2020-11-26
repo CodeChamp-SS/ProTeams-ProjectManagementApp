@@ -1,7 +1,7 @@
 ## OOPS 3rd SEM PROJECT
 My Project for 3rd sem DTU
 
-# ProTeams - Project-Management-App
+# ProTeams - Project Management App
 
 An app which allows you to coordinate easily with the members of your team while you and your team are working day and night on any project. 
 * You can create a new board for each project or multiple for boards for the same project, as you like. 
