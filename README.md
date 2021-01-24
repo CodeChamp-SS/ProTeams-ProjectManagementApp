@@ -14,7 +14,7 @@ An app which allows you to coordinate easily with the members of your team while
 
 ## Screenshots
 
-<img align="left" width="230" height="420" src="https://user-images.githubusercontent.com/52480794/100317548-8c6cff80-2fe2-11eb-9679-ab346a765c45.png"> <img align="right" width="230" height="420" src="https://user-images.githubusercontent.com/52480794/100317568-97279480-2fe2-11eb-8f91-03db35632e57.png">
+<img align="left" width="230" height="420" src="https://user-images.githubusercontent.com/52480794/105621453-77b7b700-5e2d-11eb-9c4b-aba8d945b390.png"> <img align="right" width="230" height="420" src="https://user-images.githubusercontent.com/52480794/100317568-97279480-2fe2-11eb-8f91-03db35632e57.png">
 
 <p align="center">
   <img width="230" height="420" src="https://user-images.githubusercontent.com/52480794/100317562-94c53a80-2fe2-11eb-9f36-fa57317c3ccd.png">
